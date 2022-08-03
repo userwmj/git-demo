@@ -5,6 +5,6 @@ hello wmj! hello git!
 hello wmj! hello git!
 hello wmj! hello git!
 hello wmj! hello git!
-hello wmj! hello git!
+hello wmj! hello git!master test
 hello wmj! hello git!
 hello wmj! hello git!
