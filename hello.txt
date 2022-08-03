@@ -6,5 +6,5 @@ hello wmj! hello git!
 hello wmj! hello git!
 hello wmj! hello git!
 hello wmj! hello git!
-hello wmj! hello git!
-hello wmj! hello git!
+hello wmj! hello git! 
+hello wmj! hello git!hot-fix test
